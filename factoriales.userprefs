@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{715A39D7-E7C5-4479-9AFC-DA54326F2118}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="factoriales/Program.cs">
+    <Files>
+      <File FileName="factoriales/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.factoriales PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

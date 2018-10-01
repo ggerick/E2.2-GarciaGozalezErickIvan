@@ -1,0 +1,5 @@
+/Users/AlanGarcia/Projects/factoriales/factoriales/obj/x86/Debug/factoriales.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/factoriales/factoriales/bin/Debug/factoriales.exe
+/Users/AlanGarcia/Projects/factoriales/factoriales/bin/Debug/factoriales.pdb
+/Users/AlanGarcia/Projects/factoriales/factoriales/obj/x86/Debug/factoriales.exe
+/Users/AlanGarcia/Projects/factoriales/factoriales/obj/x86/Debug/factoriales.pdb
